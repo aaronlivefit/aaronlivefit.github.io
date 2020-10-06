@@ -1,0 +1,66 @@
+html{
+    
+}
+body{
+    /* background:lightblue; */
+    width:85%;
+    /* background:lightblue; */
+    padding: 20px;
+    margin: 0 auto;
+    /* margin: 10px 20px; */
+}
+.intro{
+    /* background: lightblue; */
+}
+img{
+    width:100%;
+}
+.card{
+
+}
+
+h1{
+    line-height: 60px;
+    font-size: 48px;
+    font-weight: 300;
+    font-family: medium-content-title-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    
+}
+
+h3{
+    line-height: 40px;
+    font-size: 36px;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+}
+
+h5{
+
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 300;
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+    color: rgba(117, 117, 117, 1);
+    letter-spacing: 0;
+}
+
+p{
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    color: rgba(41, 41, 41, 1);
+    font-weight: 400;
+
+}
+span.special-y{
+    color:black;
+    font-size: 66px;
+    float: left;
+    position: relative;
+    padding-top: 7px;
+    margin-right: 12px;
+    display: block;
+    font-weight: 400;
+    letter-spacing: -0.003em;
+
+}
